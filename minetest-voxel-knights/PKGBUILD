@@ -1,13 +1,13 @@
 # Maintainer: ROllerozxa <temporaryemail4meh [gee mail]>
-pkgname=minetest-nodecore
-_pkgname=nodecore
-_pkgauthor=Warr1024
-pkgver=01472271
-_cdbrel=8919
+pkgname=minetest-voxel-knights
+_pkgname=voxel_knights
+_pkgauthor=Lone_Wolf
+pkgver=0.1.5
+_cdbrel=5110
 pkgrel=1
-pkgdesc="Original, immersive puzzle/adventure game with NO popup GUIs, minimal HUDs."
+pkgdesc="WIP Medival Fantasy Open World PvE game"
 license=("MIT")
-sha256sums=('7bdf5b06cdc9dad78ea324c38b7e43ac1c91f2fbd1413bd7c4c264b401cfdb5e')
+sha256sums=('58a13c3e6a570064a0e4fac50dfc0f20c9ca922556b0214c61945967ffcb383b')
 
 arch=("any")
 url="https://content.minetest.net/packages/${_pkgauthor}/${_pkgname}/"

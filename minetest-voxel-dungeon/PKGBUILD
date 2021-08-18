@@ -1,13 +1,13 @@
 # Maintainer: ROllerozxa <temporaryemail4meh [gee mail]>
-pkgname=minetest-nodecore
-_pkgname=nodecore
-_pkgauthor=Warr1024
-pkgver=01472271
-_cdbrel=8919
+pkgname=minetest-voxel-dungeon
+_pkgname=voxeldungeon
+_pkgauthor=Noodlemire
+pkgver=1.6.0
+_cdbrel=5023
 pkgrel=1
-pkgdesc="Original, immersive puzzle/adventure game with NO popup GUIs, minimal HUDs."
-license=("MIT")
-sha256sums=('7bdf5b06cdc9dad78ea324c38b7e43ac1c91f2fbd1413bd7c4c264b401cfdb5e')
+pkgdesc="This is a recreation and adaptation of an Android rogue-like game, Pixel Dungeon by Watabou. "
+license=("GPLv3")
+sha256sums=('1a3b6e01a13fc8b7f57e5d79e17884d6bdee399272ed3653175652135d8b5840')
 
 arch=("any")
 url="https://content.minetest.net/packages/${_pkgauthor}/${_pkgname}/"

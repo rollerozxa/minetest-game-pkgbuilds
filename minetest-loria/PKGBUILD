@@ -1,13 +1,13 @@
 # Maintainer: ROllerozxa <temporaryemail4meh [gee mail]>
-pkgname=minetest-nodecore
-_pkgname=nodecore
-_pkgauthor=Warr1024
-pkgver=01472271
-_cdbrel=8919
+pkgname=minetest-loria
+_pkgname=loria
+_pkgauthor=siegment
+pkgver=21w30h
+_cdbrel=8599
 pkgrel=1
-pkgdesc="Original, immersive puzzle/adventure game with NO popup GUIs, minimal HUDs."
-license=("MIT")
-sha256sums=('7bdf5b06cdc9dad78ea324c38b7e43ac1c91f2fbd1413bd7c4c264b401cfdb5e')
+pkgdesc="Survival in hardcore acid-alien sci-fi themed world"
+license=("GPLv3")
+sha256sums=('e984047236d08289c62eb9ca2deac53ba2ead60b2af05773cf4f9381e22efc8d')
 
 arch=("any")
 url="https://content.minetest.net/packages/${_pkgauthor}/${_pkgname}/"
