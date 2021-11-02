@@ -3,5 +3,7 @@ src/
 *.pkg.tar.zst
 *.zip
 ..git/
-TODO/
 _template/
+
+!TODO/*.sh
+TODO/*/

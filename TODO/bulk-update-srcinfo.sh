@@ -1,0 +1,1 @@
+../bulk-update-srcinfo.sh
