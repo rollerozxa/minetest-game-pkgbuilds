@@ -2,8 +2,8 @@
 pkgname=minetest-labyrinth
 _pkgname=labyrinth
 _pkgauthor=Just_Visiting
-pkgver=0.9.3
-_cdbrel=7979
+pkgver=0.9.4
+_cdbrel=8994
 pkgrel=1
 pkgdesc="An aMAZEing Game"
 license=("MIT")
