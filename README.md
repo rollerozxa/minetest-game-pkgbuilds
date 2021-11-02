@@ -1,5 +1,5 @@
 # Minetest Game PKGBUILDs
-This is a repository containing PKGBUILDs for every Minetest game that exists on the ContentDB, which is buildscripts for creating Arch packages.
+This is a repository containing PKGBUILDs for (not quite) every Minetest game that exists on the ContentDB, which is buildscripts for creating Arch packages.
 
 ## Building
 ### AUR
