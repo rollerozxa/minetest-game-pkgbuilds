@@ -5,6 +5,7 @@ for f in *; do
 		cd "$f"
 		updpkgsums
 		BUILDDIR="/tmp/makepkg/" makepkg
+		makepkg --printsrcinfo > .SRCINFO
 		cd ..
 	fi
 done
