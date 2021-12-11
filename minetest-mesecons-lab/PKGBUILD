@@ -2,12 +2,12 @@
 pkgname=minetest-mesecons-lab
 _pkgname=mesecons_lab
 _pkgauthor=BuckarooBanzay
-pkgver=2021.12.09
-_cdbrel=9943
+pkgver=2021.12.11
+_cdbrel=9969
 pkgrel=1
 pkgdesc="Mesecons laboratory and tutorials"
 license=("MIT")
-sha256sums=('295495ef607fd0b5d29eafa33fef8a67228985240d67c6a43e77fb708e0bb61a')
+sha256sums=('ee9c15dd3163d04732f346ecd11071dfec8b1d08866910b0b717e8df7e947fb5')
 
 arch=("any")
 url="https://content.minetest.net/packages/${_pkgauthor}/${_pkgname}/"
